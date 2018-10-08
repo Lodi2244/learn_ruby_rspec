@@ -1,3 +1,7 @@
+@tite_Lodi
+en pairing avec @Marc_A
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
